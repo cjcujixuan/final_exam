@@ -6,9 +6,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
-
 public class MainActivity extends AppCompatActivity {
-
     private Button button1;
     private TextView text1;
     private List<String> selectedItems;
